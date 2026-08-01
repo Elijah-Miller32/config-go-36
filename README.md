@@ -1,2 +1,4 @@
-# config-go-36
+# Config Go 36
+
 Read environmental parameter values in Go.
+
